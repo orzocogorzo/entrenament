@@ -1,0 +1,359 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pos",
+				"posts"
+			],
+			[
+				"render",
+				"render_template"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"tetx",
+				"text-align\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"magin",
+				"margin-top\tproperty"
+			],
+			[
+				"fle",
+				"inline-flex\tdisplay"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"bord",
+				"border-left\tproperty"
+			],
+			[
+				"posi",
+				"position\tproperty"
+			],
+			[
+				"in",
+				"inline-flex\tdisplay"
+			],
+			[
+				"botto",
+				"margin-bottom\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"align",
+				"align-self\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"DEs",
+				"Descripcion"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package control:in",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/pau/reposotorio_entrenament/entrenament/Paubranch",
+		"/home/pau/reposotorio_entrenament/entrenament/Paubranch/__pycache__"
+	],
+	"file_history":
+	[
+		"/home/pau/reposotorio_entrenament/entrenament/Paubranch/templates/home.html",
+		"/home/pau/reposotorio_entrenament/entrenament/Paubranch/flaskblog.py",
+		"/home/pau/reposotorio_entrenament/entrenament/Paubranch/templates/layout.html",
+		"/home/pau/reposotorio_entrenament/entrenament/Paubranch/templates/about.html",
+		"/home/pau/reposotorio_entrenament/entrenament/Paubranch/__pycache__/flaskblog.cpython-37.sublime-workspace",
+		"/home/pau/CIPSA/CSS3/Ejercicio 10/ejercicio10.html",
+		"/home/pau/CIPSA/CSS3/Ejercicio 10/ejercicio10.css",
+		"/home/pau/CIPSA/CSS3/Ejerciciofinal/index.html",
+		"/home/pau/CIPSA/CSS3/Ejerciciofinal/index.css",
+		"/home/pau/CIPSA/CSS3/Ejerciciofinal/servicios.html",
+		"/home/pau/CIPSA/CSS3/Ejerciciofinal/servicios.css",
+		"/home/pau/reposotorio_entrenament/entrenament/Paubranch/__pycache__/flaskblog.cpython-37.pyc",
+		"/home/pau/reposotorio_entrenament/hello.py",
+		"/home/pau/CIPSA/CSS3/Ejercicio 1/ejercicio01.html",
+		"/home/pau/CIPSA/CSS3/Ejercicio 7/Ejercicio07.html",
+		"/home/pau/CIPSA/CSS3/Ejercicio 7/Ejercicio07.css",
+		"/home/pau/CIPSA/CSS3/Menús/ejemplomenuvertical.html",
+		"/home/pau/CIPSA/CSS3/Ejercicio 9/ejercicio09.html",
+		"/home/pau/CIPSA/CSS3/Ejercicio 6/ejercicio06pau.css",
+		"/home/pau/CIPSA/CSS3/Ejercicio 9/ejercicio09.css",
+		"/home/pau/CIPSA/CSS3/Menús/ejemplomenuhorizontal.html",
+		"/home/pau/CIPSA/CSS3/Ejercicio 8/ejercicio08.css",
+		"/home/pau/CIPSA/CSS3/Ejercicio 8/ejercicio08.html",
+		"/home/pau/CIPSA/HTML/formularios/Ejercicio14.html",
+		"/home/pau/CIPSA/HTML/formularios/Ejercicio16.html",
+		"/home/pau/CIPSA/CSS3/Ejercicio 9/ejercicio90.html",
+		"/home/pau/CIPSA/CSS3/Ejercicio 6/ejercicio06pau.html",
+		"/home/pau/CIPSA/CSS3/Cajas/ejemplocajas.html",
+		"/home/pau/CIPSA/CSS3/Cajas/ejemplomaquetacion.html",
+		"/home/pau/CIPSA/CSS3/Ejercicio 6/ejercicio06.html",
+		"/home/pau/CIPSA/CSS3/Ejercicio 5/ejercicio5.html",
+		"/home/pau/CIPSA/CSS3/Ejercicio 3/ejercicio3.html",
+		"/home/pau/.cache/.fr-P3wGMZ/2 - Material Ejercicios/ejercicio06 (Practica1)/ejercicio06.html",
+		"/home/pau/.cache/.fr-JvjPZ1/2 - Material Ejercicios/ejercicio01.html",
+		"/home/pau/CIPSA/CSS3/Ejercicio 2/ejercicio2.html",
+		"/home/pau/CIPSA/CSS3/Ejercicio 4/ejercicio4.html",
+		"/home/pau/CIPSA/HTML/Proyecto_final/Seccion1/seccion1.html",
+		"/home/pau/CIPSA/HTML/Proyecto_final/Seccion4/seccion4.html",
+		"/home/pau/.cache/.fr-YbkpGa/ejercicio01.html",
+		"/home/pau/CIPSA/HTML/Proyecto_final/Contacto/contacto.html",
+		"/home/pau/CIPSA/HTML/Proyecto_final/Seccion3/seccion3.html",
+		"/home/pau/CIPSA/HTML/Proyecto_final/Seccion2/seccion2.html",
+		"/home/pau/CIPSA/HTML/Proyecto_final/index.html",
+		"/home/pau/CIPSA/HTML/Proyecto_final/seccion3.html",
+		"/home/pau/CIPSA/HTML/Enlaces/ejercicio6y7/index.html",
+		"/home/pau/CIPSA/HTML/Insercion imagenes/Ejercicio10.html",
+		"/home/pau/CIPSA/HTML/Enlaces/ejercicio8/ejercicio8.html",
+		"/home/pau/CIPSA/HTML/Enlaces/ejercicio9/ejercicio9.html",
+		"/home/pau/CIPSA/HTML/Tablas/Ejercicio11.html",
+		"/home/pau/CIPSA/HTML/Tablas/Ejercicio_12/Ejercicio12.html",
+		"/home/pau/CIPSA/HTML/Tablas/Ejercicio_13/Ejercicio13.html",
+		"/home/pau/CIPSA/HTML/Tablas/Ejercicio13/Ejercicio13.html",
+		"/home/pau/CIPSA/HTML/Tablas/Ejercicio 12/Ejercicio12.html",
+		"/home/pau/CIPSA/HTML/formularios/Ejercicio15.html",
+		"/home/pau/CIPSA/HTML/Enlaces/ejercicio6y7/Portfolio/index.html",
+		"/home/pau/CIPSA/HTML/Contenedores semanticos/Ejercicio5.html",
+		"/home/pau/CIPSA/HTML/Enlaces/Portfolio/Proyecto1.html",
+		"/home/pau/CIPSA/HTML/Etiquetas/Ejercicio3.html",
+		"/home/pau/CIPSA/HTML/Etiquetas/Ejercicio2.html",
+		"/home/pau/CIPSA/HTML/Contenedores semanticos/Ejercicio4.html",
+		"/home/pau/CIPSA/HTML/Etiquetas/Ejercicio1.html",
+		"/home/pau/CIPSA/HTML/Practica0.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "flaskblog.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 178.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
