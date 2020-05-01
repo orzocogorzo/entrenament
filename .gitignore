@@ -1,4 +1,4 @@
 # virtualenv
-bin/*
-lib/*
-include/*
+bin
+include
+lib
